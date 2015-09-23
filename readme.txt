@@ -1,7 +1,6 @@
 Author: Andy Thompson
 
-This is a Unix-like OS called 'ThreadOS', written in Java.  Tests with the following numbers in them
-indicate tests which test the functionality of that number's corresponding feature:
+This is a Unix-like OS called 'ThreadOS', written in Java.  Tests with the following numbers in them indicate tests which test the functionality of that number's corresponding feature:
 
 1 - shell
 2 - scheduler
